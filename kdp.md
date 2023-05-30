@@ -16,7 +16,7 @@ This book, 'The Art Of Problem-Solving: Developing Creative Solutions To Work Ch
 
 Whether you are a manager looking to improve your team's performance or an individual seeking to develop your problem-solving skills, this book has something for you. By implementing the strategies outlined in this book, you can develop a problem-solving mindset that allows you to effectively address workplace challenges and achieve greater success in your career.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
