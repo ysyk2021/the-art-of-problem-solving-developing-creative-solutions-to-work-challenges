@@ -1,5 +1,3 @@
-Chapter 5: Effective Problem-Solving Strategies
-===============================================
 
 In this chapter, we'll explore effective problem-solving strategies that can help you develop creative solutions to work challenges. We'll discuss understanding different problem-solving approaches, developing effective brainstorming techniques, utilizing creativity and innovation in problem-solving, and improving critical thinking and decision-making skills.
 

@@ -1,5 +1,3 @@
-Gathering Data and Information
-======================================================================
 
 In this chapter, we'll explore how to identify work challenges by gathering data and information.
 

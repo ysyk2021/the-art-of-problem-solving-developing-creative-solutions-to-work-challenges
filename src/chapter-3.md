@@ -1,5 +1,3 @@
-Chapter 3: Developing a Problem-Solving Mindset
-===============================================
 
 In this chapter, we'll explore the importance of developing a problem-solving mindset and techniques for cultivating it. We'll also discuss how positive self-talk, visualization, setting realistic goals and objectives, and developing resilience can help in problem-solving.
 

@@ -1,5 +1,3 @@
-Tracking Progress and Measuring Results
-==================================================================================================
 
 In this chapter, we'll explore how to measure results and learn from experience by tracking progress and measuring results.
 

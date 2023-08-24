@@ -1,5 +1,3 @@
-Managing Conflict and Negative Attitudes
-===========================================================================================
 
 In this chapter, we'll explore how to overcome common barriers to problem-solving, specifically managing conflict and negative attitudes.
 

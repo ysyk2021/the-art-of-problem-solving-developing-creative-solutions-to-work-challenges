@@ -1,5 +1,3 @@
-Overview of Problem-Solving
-================================================================
 
 Problem-solving is a critical skill in the workplace, and it's important to have a solid understanding of what it entails. In this chapter, we'll provide an overview of the problem-solving process, including the steps involved and the key skills required.
 

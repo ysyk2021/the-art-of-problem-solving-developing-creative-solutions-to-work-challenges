@@ -1,5 +1,3 @@
-Monitoring and Evaluating Results
-====================================================================
 
 In this chapter, we'll explore how to effectively monitor and evaluate the results of implemented solutions to work challenges.
 

@@ -1,5 +1,3 @@
-Communicating Solutions to Stakeholders
-==========================================================================
 
 In this chapter, we'll explore how to effectively communicate solutions to stakeholders during the implementation phase of problem-solving.
 

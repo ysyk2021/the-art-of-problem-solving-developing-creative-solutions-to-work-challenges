@@ -1,5 +1,3 @@
-Chapter 4: Identifying Work Challenges
-======================================
 
 In this chapter, we'll explore the importance of identifying work challenges as a critical first step in the problem-solving process. We'll discuss strategies for identifying common work challenges, analyzing problems to identify root causes, gathering data and information, and prioritizing problems for resolution.
 

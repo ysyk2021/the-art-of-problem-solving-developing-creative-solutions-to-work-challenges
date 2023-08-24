@@ -1,5 +1,3 @@
-Improving Critical Thinking and Decision-Making Skills
-=======================================================================================================
 
 Successful problem-solving requires strong critical thinking and decision-making skills. In this chapter, we'll explore effective strategies for improving these skills and becoming a more effective problem-solver.
 

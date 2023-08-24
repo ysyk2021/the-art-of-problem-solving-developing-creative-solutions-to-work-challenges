@@ -1,5 +1,3 @@
-Chapter 2: Defining Problem-Solving
-===================================
 
 In this chapter, we'll define problem-solving and explore the science behind it. We'll also discuss how to assess your personal problem-solving style.
 

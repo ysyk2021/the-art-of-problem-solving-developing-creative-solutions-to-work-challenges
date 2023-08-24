@@ -1,5 +1,3 @@
-Developing Effective Brainstorming Techniques
-==============================================================================================
 
 In this chapter, we'll explore how to develop effective brainstorming techniques for solving work challenges.
 

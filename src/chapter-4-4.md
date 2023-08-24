@@ -1,5 +1,3 @@
-Prioritizing Problems for Resolution
-============================================================================
 
 In this chapter, we'll explore how to identify work challenges and prioritize them for resolution.
 

@@ -1,5 +1,3 @@
-Analyzing Problems to Identify Root Causes
-==================================================================================
 
 In this chapter, we'll explore how to identify work challenges by analyzing problems to identify their root causes.
 

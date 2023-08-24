@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we've explored various strategies and techniques for developing creative solutions to work challenges. Now, in this final chapter, we'll recap some of the key problem-solving strategies we've discussed and provide some additional advice for putting these strategies into practice.
 

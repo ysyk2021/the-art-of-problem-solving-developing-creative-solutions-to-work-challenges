@@ -1,5 +1,3 @@
-Utilizing Positive Self-Talk and Visualization
-===============================================================================================
 
 Developing a problem-solving mindset is essential for effectively addressing work challenges. In this chapter, we will explore techniques for developing a problem-solving mindset, including positive self-talk and visualization.
 

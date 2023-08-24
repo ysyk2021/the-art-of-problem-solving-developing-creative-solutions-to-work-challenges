@@ -1,5 +1,3 @@
-Assessing Your Personal Problem-Solving Style
-==================================================================================
 
 Effective problem-solving requires an understanding of your personal problem-solving style. In this chapter, we'll explore the key elements of problem-solving and provide strategies to help you assess your personal problem-solving style.
 

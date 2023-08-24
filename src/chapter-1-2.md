@@ -1,5 +1,3 @@
-Common Misconceptions About Problem-Solving
-====================================================================
 
 Problem-solving is a critical skill, yet there are many misconceptions about what it involves and how it can be developed. In this chapter, we'll explore some of the most common misconceptions about problem-solving and provide clarity on what it really entails.
 

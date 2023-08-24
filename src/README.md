@@ -1,4 +1,4 @@
-# Introduction
+
 
 In today's fast-paced work environment, the ability to solve problems creatively is more important than ever. Whether it's coming up with innovative solutions to workplace challenges or finding ways to improve workflow processes, problem-solving skills are critical for success in any job role.
 

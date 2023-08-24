@@ -1,5 +1,3 @@
-Addressing Limited Resources and Time Constraints
-====================================================================================================
 
 In this chapter, we'll explore how to overcome barriers to problem-solving that stem from limited resources and time constraints.
 

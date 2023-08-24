@@ -1,5 +1,3 @@
-Developing Resilience Through Problem-Solving
-==============================================================================================
 
 In this chapter, we'll explore the importance of developing a problem-solving mindset and how it can help us become more resilient in the face of challenges.
 

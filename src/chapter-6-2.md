@@ -1,5 +1,3 @@
-Managing Change and Resistance
-=================================================================
 
 In this chapter, we'll explore how to effectively implement solutions to work challenges while managing change and resistance.
 

@@ -1,5 +1,3 @@
-Dealing with Resistance and Skepticism
-=========================================================================================
 
 Effective problem-solving can be a challenge, especially when resistance or skepticism arises. In this chapter, we'll explore some common barriers to problem-solving and techniques for overcoming them.
 

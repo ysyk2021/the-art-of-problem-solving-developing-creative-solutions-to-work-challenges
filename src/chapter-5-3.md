@@ -1,5 +1,3 @@
-Utilizing Creativity and Innovation in Problem-Solving
-=======================================================================================================
 
 In this chapter, we'll explore how to effectively utilize creativity and innovation in problem-solving strategies.
 

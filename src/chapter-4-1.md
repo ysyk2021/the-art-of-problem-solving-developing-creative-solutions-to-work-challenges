@@ -1,5 +1,3 @@
-Identifying Common Work Challenges
-==========================================================================
 
 In this chapter, we'll explore some common work challenges that individuals and organizations may face, as well as techniques for identifying and addressing them.
 

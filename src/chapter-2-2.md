@@ -1,5 +1,3 @@
-Understanding the Science Behind Problem-Solving
-=====================================================================================
 
 Problem-solving is a critical skill in today's workplace. However, it's important to understand the science behind problem-solving in order to effectively tackle work challenges. In this chapter, we'll explore the definition of problem-solving and the science behind it.
 

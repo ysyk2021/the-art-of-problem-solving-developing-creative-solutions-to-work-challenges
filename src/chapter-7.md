@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Barriers to Problem-Solving
-=================================================
 
 In this chapter, we'll explore common barriers to problem-solving and strategies for overcoming them. We'll discuss how to address limited resources and time constraints, deal with resistance and skepticism, manage conflict and negative attitudes, and handle uncertainty and risk.
 

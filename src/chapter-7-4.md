@@ -1,5 +1,3 @@
-Handling Uncertainty and Risk
-================================================================================
 
 In this chapter, we'll explore how to overcome barriers to problem-solving by handling uncertainty and risk.
 

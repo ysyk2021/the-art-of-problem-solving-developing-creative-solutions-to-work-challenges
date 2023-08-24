@@ -1,5 +1,3 @@
-Setting Realistic Goals and Objectives
-=======================================================================================
 
 In this chapter, we'll explore how to develop a problem-solving mindset by setting realistic goals and objectives.
 
