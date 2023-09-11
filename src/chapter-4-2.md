@@ -1,5 +1,4 @@
-Chapter 4: Analyzing Problems to Identify Root Causes
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of analyzing problems to identify root causes as a crucial step in developing creative solutions to work challenges. By understanding the underlying causes contributing to a problem, you can address them directly and implement effective solutions.
 

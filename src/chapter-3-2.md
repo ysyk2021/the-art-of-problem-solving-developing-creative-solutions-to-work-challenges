@@ -1,5 +1,4 @@
-Chapter 5: Utilizing Positive Self-Talk and Visualization
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the power of positive self-talk and visualization in enhancing your problem-solving abilities. The way you think and talk to yourself can significantly impact your mindset, confidence, and overall approach to work challenges. By harnessing the techniques of positive self-talk and visualization, you can cultivate a more optimistic and focused mindset for creative problem-solving.
 

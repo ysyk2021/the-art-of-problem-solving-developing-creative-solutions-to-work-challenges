@@ -1,5 +1,4 @@
-Chapter 3: Setting Realistic Goals and Objectives
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of setting realistic goals and objectives when approaching work challenges. Setting clear and attainable goals is essential for effective problem-solving and achieving desired outcomes. By understanding the key principles and techniques of goal-setting, you can enhance your problem-solving process and increase your chances of success.
 

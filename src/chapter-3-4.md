@@ -1,5 +1,4 @@
-Chapter 4: Developing Resilience through Problem-Solving
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the connection between problem-solving and resilience, highlighting how problem-solving skills can contribute to developing resilience in the face of work challenges. By understanding and applying problem-solving strategies, you can cultivate resilience and effectively navigate obstacles.
 

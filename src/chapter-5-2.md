@@ -1,5 +1,4 @@
-Chapter 3: Developing Effective Brainstorming Techniques
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the art of brainstorming as a powerful tool for developing creative solutions to work challenges. By understanding and implementing effective brainstorming techniques, you can unlock the collective creativity of your team and generate innovative ideas.
 

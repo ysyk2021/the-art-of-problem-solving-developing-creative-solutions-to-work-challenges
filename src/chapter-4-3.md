@@ -1,5 +1,4 @@
-Chapter 3: Gathering Data and Information
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of gathering data and information as a crucial step in developing creative solutions to work challenges. By collecting relevant and accurate data, you can gain insights, identify patterns and trends, and make informed decisions to address the problem at hand.
 

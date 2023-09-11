@@ -1,5 +1,4 @@
-Chapter 6: Managing Conflict and Negative Attitudes
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively managing conflict and negative attitudes that may arise during the problem-solving process. Conflict and negative attitudes can hinder progress and impact team dynamics. By understanding the underlying causes and employing effective techniques, you can navigate these challenges and foster a more positive and collaborative problem-solving environment.
 

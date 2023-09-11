@@ -1,5 +1,4 @@
-Chapter 2: Understanding the Science Behind Problem-Solving
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the science behind problem-solving as a means to develop creative solutions to work challenges. By understanding the underlying principles and cognitive processes involved in problem-solving, you can enhance your ability to tackle complex problems effectively.
 

@@ -1,5 +1,4 @@
-Chapter 5: Dealing with Resistance and Skepticism
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively dealing with resistance and skepticism when solving work challenges. Resistance and skepticism can arise from various sources, but by understanding the underlying causes and employing effective techniques, you can navigate these hurdles and foster a more collaborative problem-solving environment.
 

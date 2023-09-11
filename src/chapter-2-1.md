@@ -1,5 +1,4 @@
-Chapter 1: Overview of Problem-Solving
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of problem-solving as a fundamental skill in developing creative solutions to work challenges. Understanding the key principles and processes of problem-solving lays the foundation for effective problem-solving efforts.
 

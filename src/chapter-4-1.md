@@ -1,5 +1,4 @@
-Chapter 2: Identifying Common Work Challenges
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying common work challenges as a crucial step in developing creative solutions. By recognizing and understanding the common obstacles that individuals and organizations face in the workplace, you can proactively address these challenges and foster a culture of problem-solving and innovation.
 
